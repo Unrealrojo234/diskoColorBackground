@@ -1,0 +1,13 @@
+#random_button{
+    border-width: 0.15cap;
+    background: linear-gradient(45deg, red,blue,green,yellow,orange,magenta,lime,purple);
+    border-radius: 12px;
+    border-color: black;
+    display: block;
+    margin: auto;
+    font-family: cursive;
+    color: whitesmoke;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
