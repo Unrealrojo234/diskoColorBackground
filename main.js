@@ -14,6 +14,6 @@ function random_color(){
 }
 
 function timer(){
-    setInterval(random_color,500)
+    setInterval(random_color,1000)
 }
 
